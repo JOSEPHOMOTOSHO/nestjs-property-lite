@@ -19,4 +19,8 @@ describe('PropertiesController', () => {
   it('should be defined', () => {
     expect(PropertiesController).toBeDefined();
   });
+
+  it('should create a property', () => {
+    // expect(controller.createAd())
+  });
 });
